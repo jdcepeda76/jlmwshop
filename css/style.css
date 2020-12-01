@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,700;1,400&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+body{
+	background-image: url(../img/fondo.jpg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h3{
+	font-family: 'Asap', sans-serif;
+	font-size: 25pt;
+	letter-spacing: 1px;
+	width: 100%;
+	padding: 15px;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#container{
+	background: rgba(0,0,0,0.32);
+	width: 100%;
+	height: 100vh;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: center;	
+	align-items: center;
+}
+
+#container form{
+	background:#3A3259;
+	width: 400px;
+	padding: 10px;
+	border-radius: 7px;
+}
+#container form img{
+	width: 25%;
+	height: 15%;
+	margin: 15px auto;
+	text-align: center;
+	display: block;
+}
+#container form input{
+	font-family: 'Asap', sans-serif;
+	width: 90%;
+	padding: 5px;
+	font-size: 16pt;
+	display: block;
+	margin: 25px auto;
+	border-radius: 5px;
+	border:1px solid #CCC;
+	text-align: center;
+}
+
+#container form input[type="submit"]{
+	background: #84A9D9;
+	padding: 10px;
+	color: #FFF;
+	letter-spacing: 1px;
+	border: 0;
+	cursor: pointer;
+}
+
+.alert{
+	font-family: 'Asap', sans-serif;
+	color: #FFF;
+	font-size: 14pt;
+	text-align: center;
+}
+@media screen and (max-width: 450px){
+	#container form{
+		width: 90%;
+	}
+}

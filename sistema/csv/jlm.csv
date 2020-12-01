@@ -1,0 +1,7 @@
+Nombre,Apellido,Correo,Clave,Celular,Cedula,Direccion,id_rol,estatus,
+Prueba1,Prueba7,prueba@gmail.com,11223,954123,123456789,Cra 24D Sur # 42 - 19,1,1,
+Prueba2,Prueba8,prueba122@gmail.com,123,300135497,5354891,Calle 68D Sur # 49F - 22,2,1,
+Prueba3,Prueba9 ,prueba522@gmail.com,5421.1,21315165,21564631,Chapinero,2,0,
+Prueba4,Prueba10,prueba345@gmail.com,010719,3058263511,1010025440,Paraiso,2,1,
+Prueba5,Prueba11,prueba544@gmail.com,12345,3211236541,87123154,Paraiso,2,0,
+Prueba6,Prueba12,965prueba@gmail.com,123,3241352341,232154542,Barcelona,3,0,
