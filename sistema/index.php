@@ -143,7 +143,7 @@
 				<?php if ($_SESSION['rol'] == 1){ ?>
 				<div class="containerDataEmpresa">
 					<div class="logoEmpresa">
-						<img src="img/logoEmpresa.jpeg">
+						<img src="img/logoEmpresa.png">
 					</div>
 					<h4>Datos de la Empresa</h4>
 
